@@ -29,10 +29,11 @@ GEM
     rack (2.0.1)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
   omniauth-microsoft_v2_auth!
 
 BUNDLED WITH
-   1.12.5
+   1.13.7
